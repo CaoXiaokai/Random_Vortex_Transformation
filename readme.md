@@ -6,7 +6,7 @@
 
   The effect of  Random Vortex Transformation is shown as follow.
 
-![effect](.\figure\effect.png)
+<img src=".\figure\effect.png" alt="Experimental scheme" style="zoom:100%;" />
 
 ## Results
 
